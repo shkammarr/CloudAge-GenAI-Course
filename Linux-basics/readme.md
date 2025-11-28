@@ -18,3 +18,6 @@ Linux is required in the IT domain primarily because it serves as the backbone f
 - DevOps / Cloud Engineer
 - Cybersecurity & PenTesting
 - Server & Database Management
+
+
+## Author: Ammar Shaikh
